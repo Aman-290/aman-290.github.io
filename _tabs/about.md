@@ -5,7 +5,7 @@ order: 4
 
 # About Me
 
-Hi, I'm **Aman J Sonal**, currently pursuing my **Master of Computer Applications (MCA)** at **Manipal Institute of Technology**. I enjoy building mobile and full-stack solutions that combine clean design, real-time data, and smart features.
+Hi, I'm **Aman J Sonal**, currently pursuing my **Master of Computer Applications** at **Manipal Institute of Technology**. I enjoy building mobile and full-stack solutions that combine clean design, real-time data, and smart features.
 
 While I mostly work with **Flutter**, **Firebase**, and **cloud platforms** like AWS and GCP, I often find myself captivated by things far beyond the usual app world — like **satellite communication**, **LEO constellations**, and **maritime data systems**. These fields are still underexplored when it comes to deep tech integration, and I believe there's a lot of room for innovation.
 
