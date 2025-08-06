@@ -12,7 +12,4 @@ While I mostly work with **Flutter**, **Firebase**, and **cloud platforms** like
 This blog is where I’ll occasionally share things that catch my eye — from real-world satellite tracking quirks to building petabyte-scale systems that operate globally. Think of it as a personal logbook of curiosity, experiments, and discoveries.
 
 If you're into engineering that spans from micro-interactions on mobile UIs to macro systems in orbit, I think you'll enjoy reading along.
-
-📌 [LinkedIn Profile](https://www.linkedin.com/in/aman-j-sonal/)  
-📁 [Résumé PDF](/assets/resume_new.pdf)  
-💻 [GitHub](https://github.com/Aman-290)  
+ 
