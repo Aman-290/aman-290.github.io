@@ -1,25 +1,29 @@
 ---
-title: "From Pixels to Petabytes: My Shifting Perspective on 'Big'"
-date: 2024-06-16
+title: "From Pixels to Petabytes: Stories That Spark My Curiosity"
+date: 2025-07-20
 author: Aman J Sonal
 ---
 
-For the last few years, my world has been defined by pixels. As a mobile developer, my focus was on crafting pixel-perfect UIs, optimizing app performance, and ensuring a seamless experience for a single user on a single device. The challenges were immediate and tangible: a smooth animation, a quick API response, a clean user interface. The scale of data was usually measured in kilobytes or megabytes—the user's profile, a list of tasks, a chat history.
+As a mobile developer, I’ve spent most of my time in a world defined by pixels — crafting clean interfaces, tweaking animations, and obsessing over every detail that contributes to a smooth user experience. It's a world where every millisecond and megabyte matters. But every now and then, I come across something outside my daily grind that completely hijacks my attention.
 
-But recently, my curiosity has started to drift. I've become fascinated by a different kind of scale. Not the scale of a single user's experience, but the scale of an entire system.
+Lately, that something has been **satellites.**  
+And not just the abstract idea of satellites — but real systems like **LEO constellations**, **maritime tracking**, and the **huge gap in tech adoption** in these areas.
 
-What happens when your "users" aren't people, but thousands of distributed assets—like ships crossing an ocean, IoT sensors on a factory floor, or connected vehicles in a smart city?
+A few weeks back, I stumbled upon a story about how **ships in the Strait of Hormuz were spoofing their AIS signals** — broadcasting misleading locations or names like "Chinese ship" to avoid attacks. That’s when I started digging, and I found myself deep in a rabbit hole of **satellite AIS data**, **RF signal intelligence**, and **maritime domain awareness systems**. It turns out, there’s an entire layer of real-time global infrastructure that’s both incredibly powerful — and surprisingly underutilized.
 
-Suddenly, the data isn't measured in megabytes; it's measured in gigabytes per hour, terabytes per day, petabytes per year.
+There’s something wild about imagining thousands of vessels silently crawling across oceans, while low-orbit satellites buzz overhead trying to make sense of their movement. Data pours in — **gigabytes per hour**, **terabytes per day** — from moving targets, intermittent connections, and uncertain locations.
 
-This shift in perspective is exciting and, frankly, a little intimidating. It raises a whole new set of questions:
+And here’s the exciting part: **so much of this space is still wide open.**  
+There’s a lot of raw data, but very few elegant systems to turn it into meaning. There are amazing satellites in orbit, but outdated dashboards on the ground. The backend complexity is fascinating — how do you build systems that can:
 
-- How do you reliably ingest a firehose of data from thousands of sources that are constantly moving and may have intermittent connectivity?
-- How do you store and query petabytes of information efficiently without waiting hours for an answer?
-- And most importantly, how do you transform that raw, chaotic stream of data into something clean, understandable, and actionable? How do you find the single, critical signal in a sea of noise?
+- Ingest a firehose of noisy, real-world data?
+- Run analytics in near real-time across distributed assets?
+- Surface critical insights without overwhelming operators?
 
-I realized that building a responsive Flutter app is one kind of engineering challenge, but building a data platform that can provide real-time intelligence for a global fleet is another beast entirely. It's a move from front-end craftsmanship to back-end architecture, from user experience to system intelligence.
+That’s the kind of stuff I’m planning to share here.
 
-This is the area I want to explore next. I plan on diving into the tools and platforms designed for this world—cloud data warehouses, BI tools like Power BI, and the data engineering pipelines that stitch everything together. My goal is to document my journey as I go, starting with the fundamentals and hopefully building up to more complex, real-world projects.
+This blog is my personal notebook — part curiosity log, part idea dump — where I’ll write about the things that catch my eye: from **satellite-based RF detection of dark ships**, to **how maritime mesh networks using Wi-Fi 6 are being tested in the Red Sea**, to the **growing role of cloud data platforms** like Snowflake and BigQuery in managing petabyte-scale telemetry.
 
-The challenge is no longer just about making things look good on a screen; it's about building the systems that make sense of the world. It's a shift from pixels to petabytes, and I'm excited to get started.
+I’m not pivoting away from pixels — they’re still my day-to-day — but I’m letting myself explore. I’ll connect the dots between what I know from software engineering and what I’m learning about these massive, underexplored systems. 
+
+If you’re into weird tech, real-world complexity, and beautifully engineered solutions that don’t get enough attention — stay tuned. This place is going to get interesting.
